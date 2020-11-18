@@ -2,7 +2,7 @@
 <h3> Conseguir IP por Anydesk | Anydesk-IP (Hecho con fines educativos, no me hago responsable)</h3>
 <br/>
 <p align="center">
-<img src="https://imgur.com/t8H61TE.jpg" title="CITTZ">
+<img src="https://github.com/wrrulos/anydesk-ip/blob/main/img-github/anydesk-ip.png" title="Anydesk-ip">
 </p>
 <br/>
 
@@ -32,11 +32,11 @@
 
 ## Screenshots
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/img-github/cittz-linux.png">
+<img src="https://github.com/wrrulos/anydesk-ip/blob/main/img-github/anydesk-ip.png"> 
 
 ## Tutorial 
 
-<p> No disponible.</p>
+<img src="https://youtu.be/toInYrpYaBs">
 
 ## Licencia 
 
