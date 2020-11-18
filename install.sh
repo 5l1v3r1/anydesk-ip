@@ -29,7 +29,7 @@ rojo='\e[1;31m'
 amarillo='\e[0;33m'
 naranja='\e[38;5;166m'
 verde='\033[92m'
-magenta='\e[35m'
+magenta='\e[38;5;203m'
 blanco='\e[97m'
 ori='\e[0m'
 
