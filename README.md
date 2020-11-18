@@ -36,7 +36,7 @@
 
 ## Tutorial 
 
-<img src="https://youtu.be/toInYrpYaBs">
+<video src="https://youtu.be/toInYrpYaBs" width=320  height=240 controls poster="vistaprevia.jpg">
 
 ## Licencia 
 
