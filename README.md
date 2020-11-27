@@ -1,5 +1,5 @@
 # AnyDesk-IP
-<h3> Conseguir IP por Anydesk | Anydesk-IP (Hecho con fines educativos, no me hago responsable)</h3>
+<h3> Herramienta que te permite conseguir IP por Anydesk | (Hecho con fines educativos, no me hago responsable) </h3>
 <br/>
 <p align="center">
 <img src="https://github.com/wrrulos/anydesk-ip/blob/main/img-github/anydesk-ip.png" title="Anydesk-ip">
